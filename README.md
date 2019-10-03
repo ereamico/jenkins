@@ -11,3 +11,7 @@ Jenkins project components
 Jenkins UI can be viewed in this IP address: http://35.202.6.157:8080/
 User: admin
 Password: admin1
+
+http://35.171.167.150:8080/
+User: admin1
+Password: admin1
